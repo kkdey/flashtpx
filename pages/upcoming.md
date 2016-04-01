@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Topographical Topic Models"
+title: "Topic models with Factor Loading Adaptive Shrinkage (flash)"
 tagline: 
 ---
 
