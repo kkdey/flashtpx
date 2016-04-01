@@ -124,7 +124,7 @@ g5 = suppressMessages(flash(res,sigmae2_true = lambda_star))
 l = g5$l
 f = g5$f
 res = res - l%*%t(f)
-g6 = suppressMessages(flash(res,sigmae2_true = lambda))
+g6 = suppressMessages(flash(res,sigmae2_true = lambda_star))
 l = g6$l
 f = g6$f
 par(mfrow = c(2, 2))
