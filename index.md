@@ -13,6 +13,6 @@ We fit a Grade of Membership (GoM) or topic model using sparse factor analysis t
   [Simulation experiment 3](project/src/flashtpx_sim_run_3.pdf),
   [Simulation experiment 4](project/src/flashtpx_sim_run_4.pdf)
   
-* [Variance weighting: how effective is it?](project/src/flashtpx_variance_structure.html)
+* [Variance weighting: how effective is it?](project/src/flashtpx_variance_structure.pdf)
 
-* [Real data application of flashtpx - Price et al data](project/src/flashtpx_bird_abundance.html)
+* [Real data application of flashtpx - Price et al data](project/src/flashtpx_bird_abundance.pdf)
