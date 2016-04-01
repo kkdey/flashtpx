@@ -1,6 +1,6 @@
 # flashtpx
 
-Repository for fitting Grade of Membership (GoM) model using Factor Loading ash (FLash) due to Wei
+Repository for fitting Grade of Membership (GoM) model using Factor Loading ash (FLash) due to Wei [ check [site](kkdey.github.io/flashtpx)]
 
 Grade of Membership (GoM) models are a popular tool for clustering counts data. They have widespreas applications in population genetics and text modeling and recently, we have applied this model to cluster the samples (tissue or single cell samples) in RNA-seq reads data. There are already available software for clustering and visualizing RNA-seq expression data using GoM models - check [maptpx](https://cran.r-project.org/web/packages/maptpx/index.html) due to Matt Taddy and [CountClust](https://www.bioconductor.org/packages/3.3/bioc/html/CountClust.html) .
 
