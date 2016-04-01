@@ -97,7 +97,7 @@ to guard against the odd possibility that for some $n$ and $g$, this estimate $\
 In this example model we have considered $c_{n+}=1000$.
 
 ```{r}
-lambda_star <- 1000* (omega %*% t(theta));
+lambda_star <- 1000* (omega_sim %*% freq);
 lambda_star[lambda_star==0] <- 0.0001;
 dim(lambda_star)
 ```
